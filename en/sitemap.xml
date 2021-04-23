@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/zh/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zmdsn.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -38,11 +33,6 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/zh/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zmdsn.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -55,11 +45,6 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/courses/example/example2/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -108,6 +93,11 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/post/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -120,6 +110,16 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/post/writing-technical-content/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/zh/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/zh/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,16 +138,6 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/zh/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zmdsn.github.io/authors/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -163,36 +153,6 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/publication_types/3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/publication/preprint/"
-                />
-  </url>
-  
-  <url>
     <loc>https://zmdsn.github.io/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -204,66 +164,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zmdsn.github.io/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/tags/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/tags/source-themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/tags/"
                 />
   </url>
   
@@ -443,6 +343,21 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zmdsn.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zmdsn.github.io/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -504,7 +419,6 @@
   
   <url>
     <loc>https://zmdsn.github.io/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -518,81 +432,71 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://zmdsn.github.io/zh/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/zh/publication/journal-article/"
+                href="https://zmdsn.github.io/zh/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/publication/journal-article/"
+                href="https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://zmdsn.github.io/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/zh/authors/robert-ford/"
+                href="https://zmdsn.github.io/zh/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/authors/robert-ford/"
+                href="https://zmdsn.github.io/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://zmdsn.github.io/publication/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/zh/publication_types/1/"
+                href="https://zmdsn.github.io/zh/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/publication_types/1/"
+                href="https://zmdsn.github.io/publication/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/publication/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/publication/conference-paper/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://zmdsn.github.io/zh/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/post/</loc>
   </url>
   
   <url>
     <loc>https://zmdsn.github.io/zh/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/tags/source-themes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zmdsn.github.io/zh/tags/source-themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zmdsn.github.io/tags/source-themes/"
+                />
   </url>
   
 </urlset>
