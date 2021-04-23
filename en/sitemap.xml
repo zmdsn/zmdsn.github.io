@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -33,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -45,6 +55,11 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/courses/example/example2/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/zh/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -94,7 +109,7 @@
   
   <url>
     <loc>https://zmdsn.github.io/zh/post/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -119,7 +134,7 @@
   
   <url>
     <loc>https://zmdsn.github.io/zh/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -135,6 +150,11 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/courses/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/zh/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -180,6 +200,11 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/post/jupyter/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/zh/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -328,6 +353,11 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -388,6 +418,11 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -429,10 +464,6 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/publication_types/2/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/courses/</loc>
   </url>
   
   <url>
