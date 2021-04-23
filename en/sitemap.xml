@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/zh/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zmdsn.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -38,11 +33,6 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/zh/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zmdsn.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -55,11 +45,6 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/courses/example/example2/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -108,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/zh/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zmdsn.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -128,16 +108,6 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/zh/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zmdsn.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -150,11 +120,6 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/courses/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -208,6 +173,11 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -235,6 +205,11 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/slides/example/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/zh/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -338,6 +313,11 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -350,11 +330,6 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/project/internal-project/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -467,6 +442,10 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/courses/</loc>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
     <xhtml:link
                 rel="alternate"
@@ -478,6 +457,10 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/zh/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
   </url>
   
   <url>
