@@ -245,61 +245,21 @@
   <url>
     <loc>https://zmdsn.github.io/zh/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/tags/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/tags/deep-learning/"
-                />
   </url>
   
   <url>
     <loc>https://zmdsn.github.io/zh/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/tags/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/tags/demo/"
-                />
   </url>
   
   <url>
     <loc>https://zmdsn.github.io/zh/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/project/external-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/project/external-project/"
-                />
   </url>
   
   <url>
     <loc>https://zmdsn.github.io/zh/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/project/internal-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/project/internal-project/"
-                />
   </url>
   
   <url>
@@ -407,17 +367,11 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/publication/elite-leading-fireworks-algorithm/</loc>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/zh/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
-                />
   </url>
   
   <url>

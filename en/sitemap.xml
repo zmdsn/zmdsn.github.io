@@ -63,6 +63,11 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,6 +80,16 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/talk/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/zh/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/zh/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,6 +108,11 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/zh/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -105,6 +125,11 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/post/writing-technical-content/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/zh/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -173,11 +198,6 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/zh/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zmdsn.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -205,11 +225,6 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/slides/example/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -268,68 +283,8 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/tags/deep-learning/</loc>
+    <loc>https://zmdsn.github.io/tags/ai/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/tags/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/tags/deep-learning/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/tags/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/tags/demo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/project/external-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/project/external-project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/project/internal-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/project/internal-project/"
-                />
   </url>
   
   <url>
@@ -345,6 +300,16 @@
                 hreflang="en"
                 href="https://zmdsn.github.io/project/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/tags/swarm-intelligence/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zmdsn.github.io/project/siorea/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -446,21 +411,11 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/zh/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
-                />
+    <loc>https://zmdsn.github.io/publication/2017-elite-leading-fireworks-algorithm/</loc>
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/zh/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
+    <loc>https://zmdsn.github.io/publication/2021-memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
   </url>
   
   <url>
@@ -493,10 +448,6 @@
   
   <url>
     <loc>https://zmdsn.github.io/zh/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/zh/talk/</loc>
   </url>
   
   <url>
