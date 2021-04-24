@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI | Li Rui @ BUPT</title>
+    <title>AI | 李瑞</title>
     <link>https://zmdsn.github.io/tags/ai/</link>
       <atom:link href="https://zmdsn.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <description>AI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zmdsn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>AI</title>
@@ -13,12 +13,11 @@
     </image>
     
     <item>
-      <title>Swarm intelligence</title>
+      <title>群体智能/演化计算</title>
       <link>https://zmdsn.github.io/project/siorea/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://zmdsn.github.io/project/siorea/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;h2 id=&#34;public&#34;&gt;public&lt;/h2&gt;
+      <description>&lt;p&gt;群体智能是一门研究自然和人工系统的学科，由许多个体组成，这些个体基于社会实体间分散的、集体的和自组织的的合作行为进行协调，如鸟群、鱼群、蚁群、动物放牧、细菌生长和微生物智能。群体的成员必须是活跃的、动态的和简单的（没有或几乎没有对周围环境的固有知识）。在群体内部，由于这种协作行为，出现了一种比随机搜索更好的搜索策略，所得到的智能搜索策略一般称为群体智能。Bonabeau等人[3]对群体智能的一个广为接受的定义是，由简单的个体组成的群体所产生的集体智慧。&lt;/p&gt;
 </description>
     </item>
     
