@@ -1,5 +1,5 @@
 ---
-title: Swarm intelligence
+title: Swarm Intelligence / Evolutionary Computation
 summary:  Design heuristics for complex real-world optimisation problems using genetic programming hyper-heuristics.
 tags:
 - Swarm intelligence

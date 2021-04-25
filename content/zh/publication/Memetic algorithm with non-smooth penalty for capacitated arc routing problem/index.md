@@ -53,6 +53,7 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 projects:
 - SIorEA
+- CARP
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

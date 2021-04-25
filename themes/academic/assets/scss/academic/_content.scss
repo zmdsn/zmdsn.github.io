@@ -76,7 +76,7 @@ article {
 }
 
 .article-title a {
-  color: #151515;
+  color: blue;
   transition: color 0.6s ease;
 }
 
@@ -95,7 +95,6 @@ article {
 .dark .article-metadata {
   color: rgba(255,255,255,0.54);
 }
-
 .stream-meta.article-metadata {
   margin-bottom: 5px;
 }
@@ -218,10 +217,12 @@ article .article-metadata {
 
 .share-box {
   margin-top: 0.7rem;
+  display: none;
 }
 
 ul.share {
   display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
   flex-direction: row;
@@ -335,3 +336,5 @@ ul.share li:hover i {
 .article-widget h3 {
   margin-top: 0;
 }
+
+

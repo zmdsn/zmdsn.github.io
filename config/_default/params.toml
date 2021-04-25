@@ -54,7 +54,7 @@ description = "Li Rui's homepage"
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
 highlight_languages = ["r"]  # Add support for highlighting additional languages
-# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
@@ -93,7 +93,7 @@ address = {street = "10 Xitucheng Road", city = "Beijing", region = "Beijing", p
 coordinates = {latitude = "39.5736", longitude = "116.2108"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 818a"
+directions = "Enter Building 1 and take the stairs to Office 818A"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

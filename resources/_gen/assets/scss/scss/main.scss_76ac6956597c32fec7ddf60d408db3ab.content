@@ -8951,3 +8951,13 @@ div.mermaid {
   width: 100%;
   text-align: center;
   margin-bottom: 1rem; }
+
+.share-box {
+  display: none; }
+
+#projects .article-title a {
+  color: #2962ff;
+  transition: color 0.3s ease; }
+
+#projects .article-title a:hover {
+  color: black; }

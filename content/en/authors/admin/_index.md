@@ -18,14 +18,13 @@ organizations:
   url: "https://english.bupt.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include evolutionary computation, swarm intelligence and optimization.
 
 interests:
 - Swarm Intelligence
 - Evolutionary Computation
+- Optimization
 - Artificial Intelligence
-- Computational 
-- optimization
 
 education:
   courses:
@@ -69,5 +68,5 @@ user_groups:
 - Visitors Li  is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 ---
 
- Li Rui is a PHD candidate of BUPT. His research interests include evolutionary computation, swarm intelligence and optimizing .
+ Li Rui is a PHD candidate of BUPT. My research interests include evolutionary computation, swarm intelligence and optimization.
 
