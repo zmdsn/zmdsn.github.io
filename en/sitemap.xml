@@ -63,6 +63,21 @@
   </url>
   
   <url>
+    <loc>https://zmdsn.github.io/en/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zmdsn.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zmdsn.github.io/en/"
+                />
+  </url>
+  
+  <url>
     <loc>https://zmdsn.github.io/en/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -168,63 +183,68 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://zmdsn.github.io/en/project/carp/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/"
+                href="https://zmdsn.github.io/project/carp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/"
+                href="https://zmdsn.github.io/en/project/carp/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://zmdsn.github.io/en/tags/carp/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/privacy/"
+                href="https://zmdsn.github.io/tags/carp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/privacy/"
+                href="https://zmdsn.github.io/en/tags/carp/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/zh/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://zmdsn.github.io/en/tags/combinatorial-optimization/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://zmdsn.github.io/en/project/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/terms/"
+                href="https://zmdsn.github.io/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/terms/"
+                href="https://zmdsn.github.io/en/project/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/zh/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/en/zh/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://zmdsn.github.io/en/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zmdsn.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zmdsn.github.io/en/tags/"
+                />
   </url>
   
   <url>
@@ -239,21 +259,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zmdsn.github.io/en/tags/ai/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/en/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/en/project/"
                 />
   </url>
   
@@ -284,21 +289,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zmdsn.github.io/en/project/siorea/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zmdsn.github.io/en/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/en/tags/"
                 />
   </url>
   
@@ -405,16 +395,16 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/publication/2017-elite-leading-fireworks-algorithm/</loc>
+    <loc>https://zmdsn.github.io/en/publication/elite-leading-fireworks-algorithm/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/publication/2017-elite-leading-fireworks-algorithm/"
+                href="https://zmdsn.github.io/publication/elite-leading-fireworks-algorithm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/publication/2017-elite-leading-fireworks-algorithm/"
+                href="https://zmdsn.github.io/en/publication/elite-leading-fireworks-algorithm/"
                 />
   </url>
   
@@ -433,16 +423,16 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/publication/2021-memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
+    <loc>https://zmdsn.github.io/en/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/publication/2021-memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
+                href="https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/publication/2021-memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
+                href="https://zmdsn.github.io/en/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
                 />
   </url>
   

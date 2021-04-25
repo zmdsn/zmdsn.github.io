@@ -5,7 +5,7 @@
     <link>https://zmdsn.github.io/en/project/</link>
       <atom:link href="https://zmdsn.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zmdsn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,7 +13,16 @@
     </image>
     
     <item>
-      <title>Swarm intelligence</title>
+      <title>Capacitated Arc Routing Problem （CARP）</title>
+      <link>https://zmdsn.github.io/en/project/carp/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://zmdsn.github.io/en/project/carp/</guid>
+      <description>&lt;p&gt;For a graph $G=(N,E)$, if a part of the edges (task edges) need to be served, find the routes of minimum cost.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Swarm Intelligence / Evolutionary Computation</title>
       <link>https://zmdsn.github.io/en/project/siorea/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://zmdsn.github.io/en/project/siorea/</guid>

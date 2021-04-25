@@ -170,6 +170,16 @@
   <url>
     <loc>https://zmdsn.github.io/tags/carp/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zmdsn.github.io/en/tags/carp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zmdsn.github.io/tags/carp/"
+                />
   </url>
   
   <url>
@@ -210,36 +220,26 @@
   <url>
     <loc>https://zmdsn.github.io/project/carp/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zmdsn.github.io/en/project/carp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zmdsn.github.io/project/carp/"
+                />
   </url>
   
   <url>
     <loc>https://zmdsn.github.io/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/en/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/privacy/"
-                />
   </url>
   
   <url>
     <loc>https://zmdsn.github.io/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zmdsn.github.io/en/terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zmdsn.github.io/terms/"
-                />
   </url>
   
   <url>
@@ -405,16 +405,16 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/publication/2017-elite-leading-fireworks-algorithm/</loc>
+    <loc>https://zmdsn.github.io/publication/elite-leading-fireworks-algorithm/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/publication/2017-elite-leading-fireworks-algorithm/"
+                href="https://zmdsn.github.io/en/publication/elite-leading-fireworks-algorithm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/publication/2017-elite-leading-fireworks-algorithm/"
+                href="https://zmdsn.github.io/publication/elite-leading-fireworks-algorithm/"
                 />
   </url>
   
@@ -433,16 +433,16 @@
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/publication/2021-memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
+    <loc>https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/publication/2021-memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
+                href="https://zmdsn.github.io/en/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/publication/2021-memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
+                href="https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
                 />
   </url>
   
