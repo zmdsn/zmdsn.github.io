@@ -464,6 +464,15 @@ Three
     </item>
     
     <item>
+      <title>限量弧路径问题</title>
+      <link>https://zmdsn.github.io/project/carp/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://zmdsn.github.io/project/carp/</guid>
+      <description>&lt;p&gt;对于一个图$G=(N,E)$, 若需要服务其中一部分边（任务边），求最小花费路径。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>https://zmdsn.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
