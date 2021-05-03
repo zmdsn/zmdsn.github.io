@@ -26,7 +26,7 @@
 
     {{/* Maps JS. */}}
     {{ if eq site.Params.map.engine 1 }}
-      <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.Params.map.api_key }}"></script>
+      <script async defer src=""></script>
       {{ if ($scr.Get "use_cdn") }}
       {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.gmaps.url $js.gmaps.version) $js.gmaps.sri | safeHTML }}
       {{ end }}

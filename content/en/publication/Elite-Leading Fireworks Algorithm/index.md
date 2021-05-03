@@ -21,7 +21,7 @@ publication_short: ""
 abstract: No
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Elite-Leading Fireworks Algorithm is proposed.
 
 tags:
 - Source Themes

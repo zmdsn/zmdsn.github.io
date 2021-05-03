@@ -21,7 +21,7 @@ publication_short: ""
 abstract: The capacitated arc routing problem (CARP) has attracted much attention during last decades due to its wide applications. However, the existing research methods still have a little potential to make full use of the characteristics of CARP. This paper aims to mine the essential characteristics of arc routing problem that node routing problem does not have. Based on the observation on characteristics of arc routing instances, smooth condition is proposed and constructed as a rule to divide the link between two tasks into smooth link and non-smooth link. Then smooth degree is defined to measure the influence of non-smooth links on solution and a small smooth degree means the better quality for a solution. The effect of smooth degree is verified through simulation comparison on several instance sets, which indicates that there is a positive correlation between smooth degree and the total cost of a solution. Non-smooth penalty is used to drive the non-smooth solution to smooth and to improve its total cost. Then non-smooth penalty is inserted into path-scanning variants and new construction algorithms are obtained. A partial reconstruction method (PRM) is designed using these construction algorithms as an alternative kernel method. In order to further reduce the routes number, a reinsert method (RiM) is proposed. Combining these two methods with traditional local search algorithms, a memetic algorithm with non-smooth penalty (MANSP) is proposed which is originated from the initial observation on the essential characteristics of arc routing problem. Extensive experiments on smooth degree, penalty factor, and comparison with state-of-the-art algorithms show that the proposed strategies are effective and the proposed algorithm MANSP performs very competitive.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Non-smooth penalty and a memetic algorithm with non-smooth penalty are proposed .
 
 tags:
 - Source Themes
@@ -30,7 +30,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf:  https://www.sciencedirect.com/science/article/abs/pii/S0950705121002203?via%3Dihub
+url_pdf:  /files/MANSP.pdf
 url_code: 'https://github.com/zmdsn/MANSP.git'
 url_dataset: ''
 url_poster: ''
