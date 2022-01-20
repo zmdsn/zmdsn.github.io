@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: 硕博连读（系统科学）
-    institution: 北京邮电大学理学院
-    year: 2015
-  - course: 本科（数学与应用数学，国际经济与贸易）
+  - course: 理学博士（系统科学）
+    institution: 北京邮电大学
+    year: 2021
+  - course: 理学学士（数学与应用数学，国际经济与贸易）
     institution: 山东科技大学
-    year: 2011
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-本人现为北京邮电大学博士生，主要研究如何利用演化计算求解限量弧路径问题。
-我喜欢各种算法，但有算法无不研究，但是精通的不多，希望能和大家交流。
+北京邮电大学博士生，主要研究如何利用演化计算求解限量弧路径问题。
+喜欢各种算法，但有算法无不研究，但是精通的不多，希望能和大家交流。
