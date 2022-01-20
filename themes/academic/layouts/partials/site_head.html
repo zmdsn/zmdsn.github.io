@@ -4,6 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic {{ site.Data.academic.version }}">
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"   ></script>
 
   {{ $scr := .Scratch }}
 
@@ -108,7 +109,7 @@
       {{end}}
 
       {{ if $load }}
-        {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" async></script>" (printf $v.url $v.version) $v.sri | safeHTML }}
+        {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymsous\" async></script>" (printf $v.url $v.version) $v.sri | safeHTML }}
       {{end}}
     {{end}}
 
