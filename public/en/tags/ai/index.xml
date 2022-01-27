@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI | Li Rui @ HIT</title>
-    <link>https://zmdsn.github.io/en/tags/ai/</link>
-      <atom:link href="https://zmdsn.github.io/en/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <link>/en/tags/ai/</link>
+      <atom:link href="/en/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <description>AI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved @ 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zmdsn.github.io/images/icon_hudc144ac7ed8a6327e50731fcfe96e032_20650_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudc144ac7ed8a6327e50731fcfe96e032_20650_512x512_fill_lanczos_center_2.png</url>
       <title>AI</title>
-      <link>https://zmdsn.github.io/en/tags/ai/</link>
+      <link>/en/tags/ai/</link>
     </image>
     
     <item>
       <title>Swarm Intelligence / Evolutionary Computation</title>
-      <link>https://zmdsn.github.io/en/project/siorea/</link>
+      <link>/en/project/siorea/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://zmdsn.github.io/en/project/siorea/</guid>
+      <guid>/en/project/siorea/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
     </item>

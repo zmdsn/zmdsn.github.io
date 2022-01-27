@@ -3,478 +3,478 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zmdsn.github.io/en/courses/example/example1/</loc>
+    <loc>/en/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/courses/example/example1/"
+                href="/courses/example/example1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/courses/example/example1/"
+                href="/en/courses/example/example1/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/courses/example/</loc>
+    <loc>/en/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/courses/example/"
+                href="/courses/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/courses/example/"
+                href="/en/courses/example/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/courses/example/example2/</loc>
+    <loc>/en/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/courses/example/example2/"
+                href="/courses/example/example2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/courses/example/example2/"
+                href="/en/courses/example/example2/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/talk/example/</loc>
+    <loc>/en/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/talk/example/"
+                href="/talk/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/talk/example/"
+                href="/en/talk/example/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/talk/</loc>
+    <loc>/en/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/talk/"
+                href="/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/talk/"
+                href="/en/talk/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/post/</loc>
+    <loc>/en/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/post/"
+                href="/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/post/"
+                href="/en/post/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/post/writing-technical-content/</loc>
+    <loc>/en/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/post/writing-technical-content/"
+                href="/post/writing-technical-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/post/writing-technical-content/"
+                href="/en/post/writing-technical-content/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/courses/</loc>
+    <loc>/en/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/courses/"
+                href="/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/courses/"
+                href="/en/courses/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/post/jupyter/</loc>
+    <loc>/en/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/post/jupyter/"
+                href="/post/jupyter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/post/jupyter/"
+                href="/en/post/jupyter/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/slides/</loc>
+    <loc>/en/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/slides/"
+                href="/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/slides/"
+                href="/en/slides/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/slides/example/</loc>
+    <loc>/en/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/slides/example/"
+                href="/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/slides/example/"
+                href="/en/slides/example/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/project/carp/</loc>
+    <loc>/en/project/carp/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/project/carp/"
+                href="/project/carp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/project/carp/"
+                href="/en/project/carp/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/tags/carp/</loc>
+    <loc>/en/tags/carp/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/tags/carp/"
+                href="/tags/carp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/tags/carp/"
+                href="/en/tags/carp/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/tags/combinatorial-optimization/</loc>
+    <loc>/en/tags/combinatorial-optimization/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/project/</loc>
+    <loc>/en/project/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/project/"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/project/"
+                href="/en/project/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/tags/"
+                href="/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/tags/ai/</loc>
+    <loc>/en/tags/ai/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/tags/ai/"
+                href="/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/tags/ai/"
+                href="/en/tags/ai/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/tags/swarm-intelligence/</loc>
+    <loc>/en/tags/swarm-intelligence/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/tags/swarm-intelligence/"
+                href="/tags/swarm-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/tags/swarm-intelligence/"
+                href="/en/tags/swarm-intelligence/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/project/siorea/</loc>
+    <loc>/en/project/siorea/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/project/siorea/"
+                href="/project/siorea/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/project/siorea/"
+                href="/en/project/siorea/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/tags/academic/</loc>
+    <loc>/en/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/tags/academic/"
+                href="/tags/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/tags/academic/"
+                href="/en/tags/academic/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/post/getting-started/</loc>
+    <loc>/en/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/post/getting-started/"
+                href="/post/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/post/getting-started/"
+                href="/en/post/getting-started/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/categories/"
+                href="/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/categories/demo/</loc>
+    <loc>/en/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/categories/demo/"
+                href="/categories/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/categories/demo/"
+                href="/en/categories/demo/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/authors/admin/</loc>
+    <loc>/en/authors/admin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/authors/admin/"
+                href="/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/authors/admin/"
+                href="/en/authors/admin/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/publication_types/2/</loc>
+    <loc>/en/publication_types/2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/publication_types/2/"
+                href="/publication_types/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/publication_types/2/"
+                href="/en/publication_types/2/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/authors/</loc>
+    <loc>/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/authors/"
+                href="/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/authors/"
+                href="/en/authors/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/publication/elite-leading-fireworks-algorithm/</loc>
+    <loc>/en/publication/elite-leading-fireworks-algorithm/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/publication/elite-leading-fireworks-algorithm/"
+                href="/publication/elite-leading-fireworks-algorithm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/publication/elite-leading-fireworks-algorithm/"
+                href="/en/publication/elite-leading-fireworks-algorithm/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/li-rui/</loc>
+    <loc>/en/li-rui/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/li-rui/"
+                href="/li-rui/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/li-rui/"
+                href="/en/li-rui/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
+    <loc>/en/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
+                href="/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
+                href="/en/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/publication_types/</loc>
+    <loc>/en/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/publication_types/"
+                href="/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/publication_types/"
+                href="/en/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/publication/</loc>
+    <loc>/en/publication/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/publication/"
+                href="/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/publication/"
+                href="/en/publication/"
                 />
   </url>
   
   <url>
-    <loc>https://zmdsn.github.io/en/tags/source-themes/</loc>
+    <loc>/en/tags/source-themes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zmdsn.github.io/tags/source-themes/"
+                href="/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zmdsn.github.io/en/tags/source-themes/"
+                href="/en/tags/source-themes/"
                 />
   </url>
   
