@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI | 李瑞@BUPT</title>
+    <link>https://zmdsn.github.io/tags/ai/</link>
+      <atom:link href="https://zmdsn.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>All rights reserved @ 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zmdsn.github.io/images/icon_hudc144ac7ed8a6327e50731fcfe96e032_20650_512x512_fill_lanczos_center_2.png</url>
+      <title>AI</title>
+      <link>https://zmdsn.github.io/tags/ai/</link>
+    </image>
+    
+    <item>
+      <title>群体智能/演化计算</title>
+      <link>https://zmdsn.github.io/project/siorea/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://zmdsn.github.io/project/siorea/</guid>
+      <description>&lt;p&gt;群体智能是一门研究自然和人工系统的学科，由许多个体组成，这些个体基于社会实体间分散的、集体的和自组织的的合作行为进行协调，如鸟群、鱼群、蚁群、动物放牧、细菌生长和微生物智能。群体的成员必须是活跃的、动态的和简单的（没有或几乎没有对周围环境的固有知识）。在群体内部，由于这种协作行为，出现了一种比随机搜索更好的搜索策略，所得到的智能搜索策略一般称为群体智能。Bonabeau等人[3]对群体智能的一个广为接受的定义是，由简单的个体组成的群体所产生的集体智慧。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

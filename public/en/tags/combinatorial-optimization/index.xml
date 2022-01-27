@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Combinatorial optimization | Li Rui @ BUPT</title>
+    <link>https://zmdsn.github.io/en/tags/combinatorial-optimization/</link>
+      <atom:link href="https://zmdsn.github.io/en/tags/combinatorial-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Combinatorial optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved @ 2021</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zmdsn.github.io/images/icon_hudc144ac7ed8a6327e50731fcfe96e032_20650_512x512_fill_lanczos_center_2.png</url>
+      <title>Combinatorial optimization</title>
+      <link>https://zmdsn.github.io/en/tags/combinatorial-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Capacitated Arc Routing Problem （CARP）</title>
+      <link>https://zmdsn.github.io/en/project/carp/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://zmdsn.github.io/en/project/carp/</guid>
+      <description>&lt;p&gt;For a graph $G=(N,E)$, if a part of the edges (task edges) need to be served, find the routes of minimum cost.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
