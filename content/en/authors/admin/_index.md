@@ -34,9 +34,6 @@ education:
   - course: PhD in System science
     institution: Beijing University of Posts and Telecommunications
     year: 2021
-  - course: PhD in System science
-    institution: Beijing University of Posts and Telecommunications
-    year: 2021
   - course: BSc in Mathematics and Economics
     institution: Shandong University of Science and Technology
     year: 2015
@@ -74,5 +71,5 @@ user_groups:
 - Visitors Li  is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 ---
 
- Li Rui is a PHD candidate of BUPT. My research interests include evolutionary computation, swarm intelligence and optimization.
+ Li Rui is a PostPhD of HIT. My research interests include evolutionary computation, swarm intelligence and optimization.
 
