@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: A PhD student of
+role: PhD of system science
 
 # Organizations/Affiliations
 organizations:
-- name: Beijing University of Posts and Telecommunications
-  url: "https://english.bupt.edu.cn/"
+- name: Harbin Institute of Technology 
+  url: "https://www.hitsz.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include evolutionary computation, swarm intelligence and optimization.
@@ -28,6 +28,12 @@ interests:
 
 education:
   courses:
+  - course: Postdoc 
+    institution: Harbin Institute of Technology 
+    year: 2023
+  - course: PhD in System science
+    institution: Beijing University of Posts and Telecommunications
+    year: 2021
   - course: PhD in System science
     institution: Beijing University of Posts and Telecommunications
     year: 2021
