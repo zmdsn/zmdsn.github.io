@@ -48,38 +48,8 @@
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/talk/example/"
-                />
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/talk/"
-                />
-  </url>
-  
-  <url>
     <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -90,6 +60,11 @@
                 hreflang="zh"
                 href="/post/"
                 />
+  </url>
+  
+  <url>
+    <loc>/post/%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -254,6 +229,36 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/talk/example/"
                 />
   </url>
   
@@ -433,6 +438,10 @@
   </url>
   
   <url>
+    <loc>/article/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
+  </url>
+  
+  <url>
     <loc>/publication/memetic-algorithm-with-non-smooth-penalty-for-capacitated-arc-routing-problem/</loc>
     <xhtml:link
                 rel="alternate"
@@ -461,6 +470,10 @@
   </url>
   
   <url>
+    <loc>/article/</loc>
+  </url>
+  
+  <url>
     <loc>/publication/</loc>
     <xhtml:link
                 rel="alternate"
@@ -486,6 +499,10 @@
                 hreflang="zh"
                 href="/tags/source-themes/"
                 />
+  </url>
+  
+  <url>
+    <loc>/article/%E7%AC%AC%E4%B8%80%E7%AB%A0/</loc>
   </url>
   
 </urlset>
