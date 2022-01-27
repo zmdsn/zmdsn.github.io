@@ -11,10 +11,10 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "李瑞@BUPT"
+  title = "李瑞@HIT"
   [zh.params]
     description = "个人主页"
-    address = {street = "西土城路10号", city = "海淀区", region = "北京", postcode = "100876", country = "China", country_code = "CN"}
+    address = {street = "振兴路1号", city = "深圳市", region = "福田区", postcode = "518000", country = "China", country_code = "CN"}
     directions = "主楼东北角818甲"
  # [[zh.menu.main]]
 #    name = "Wo"

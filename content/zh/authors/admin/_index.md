@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 博士研究生
+role: 博士后
 
 # Organizations/Affiliations
 organizations:
-- name: 北京邮电大学
-  url: "https://www.bupt.edu.cn/"
+- name: 哈尔滨工业大学（深圳） 
+  url: "https://www.hitsz.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 我的研究兴趣主要在各种算法，现在主攻优化相关算法。
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: 博士后
+    institution: 哈尔滨工业大学（深圳），深圳市房地产与城市建设研究中心 
+    year: 2023
   - course: 理学博士（系统科学）
     institution: 北京邮电大学
     year: 2021
