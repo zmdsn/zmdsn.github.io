@@ -25,6 +25,7 @@ interests:
 - Evolutionary Computation
 - Optimization
 - Artificial Intelligence
+- Price Index
 
 education:
   courses:
@@ -71,5 +72,6 @@ user_groups:
 - Visitors Li  is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 ---
 
- Li Rui is a PostPhD of HIT. My research interests include evolutionary computation, swarm intelligence and optimization.
+ Li Rui is a PostPhD of HIT. 
+ My research interests include evolutionary computation, swarm intelligence and optimization, price index.
 

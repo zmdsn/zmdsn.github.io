@@ -5,7 +5,12 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
+  description = "Li Rui's homepage"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  address = {street = "1 Zhenxing Road", city = "Shenzhen", region = "Futian", postcode = "518000", country = "China", country_code = "CN"}
+  title = "Li Rui@HIT"
+  copyright = "All rights reserved @ 2022"
+  directions = "South Building 505"
 
 # Uncomment the lines below to configure your website in a second language.
 [zh]
@@ -15,7 +20,8 @@
   [zh.params]
     description = "个人主页"
     address = {street = "振兴路1号", city = "深圳市", region = "福田区", postcode = "518000", country = "China", country_code = "CN"}
-    directions = "南楼515室"
+    directions = "南楼505室"
+  	copyright = "All rights reserved @ 2022"
  # [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
@@ -30,6 +36,8 @@
 	  url = "#projects"
 	  weight = 30
 
+
+
 	[[zh.menu.main]]
 	  name = "出版物"
 	  url = "#featured"
@@ -39,6 +47,11 @@
 	#  name = "Courses"
 	#  url = "courses/"
 	#  weight = 50
+
+	[[zh.menu.main]]
+	  name = "随笔"
+	  url = "#article"
+	  weight = 25
 
 	[[zh.menu.main]]
 	  name = "联系方式"
