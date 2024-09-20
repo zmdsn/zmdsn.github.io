@@ -5,23 +5,23 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  description = "Li Rui's homepage"
+  description = "Rui Li's homepage"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   address = {street = "1 Zhenxing Road", city = "Shenzhen", region = "Futian", postcode = "518000", country = "China", country_code = "CN"}
-  title = "Li Rui@HIT"
-  copyright = "All rights reserved @ 2022"
+  title = "Rui Li @ DRIFT"
+  copyright = "All rights reserved @ 2024"
   directions = "South Building 505"
 
 # Uncomment the lines below to configure your website in a second language.
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "李瑞@HIT"
+  title = "李瑞 @ DRIFT"
   [zh.params]
     description = "个人主页"
     address = {street = "振兴路1号", city = "深圳市", region = "福田区", postcode = "518000", country = "China", country_code = "CN"}
-    directions = "南楼505室"
-  	copyright = "All rights reserved @ 2022"
+    directions = ""
+  	copyright = "All rights reserved @ 2024"
  # [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
