@@ -10,9 +10,9 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      coverpage: true,
-      coverpage: ['/', '/zh-cn/'],
-      onlyCover: false,
+      // coverpage: true,
+      // coverpage: ['/', '/zh-cn/'],
+      // onlyCover: false,
       //...
       //loadSidebar: true,
       // alias: {
@@ -33,12 +33,49 @@
         color:'rgb(90,90,90)',
         language:'chinese'
       }, // 字数统计
-    }
+      search: {
+        paths: 'auto',
+        placeholder: '🔍 搜索',
+        noData: '😒 找不到结果',
+        // Headline depth, 1 - 6
+        depth: 6,
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+      },//添加搜索框
+      plugins: [
+      function(hook) {
+        var footer = [
+          '<hr/>',
+          '<footer>',
+          '<span><a href="https://github.com/zmdsn">zmdsn</a> &copy;2024.</span>',
+          '<span>Proudly published with <a href="https://github.com/zmdsn" target="_blank">zmdsn</a>.</span>',
+          '</footer>'
+        ].join('');
+
+        hook.afterEach(function(html) {
+          return html + footer;
+        });
+      }
+    ]
+  }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <!-- 支持 LaTex 语言 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/zoom-image.min.js"></script>
+
+  <!-- 添加 PDF 页面展示功能 -->
+  <!-- PDFObject.js is a required dependency of this plugin -->
+  <!--<script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>-->
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/pdfobject.min.js"></script>
+  <!-- This is the source code of the pdf embed plugin -->
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/docsify-pdf-embed.js"></script>
+
+  <!-- 复制代码-->
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/docsify-copy-code.min.js"></script>
 </body>
 </html>
 

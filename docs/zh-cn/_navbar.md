@@ -3,7 +3,7 @@
 * [主页](/)
 
 * 研究课题
-  * [运筹学](zh-cn/quickstart.md)
+  * [运筹学](research/OR.md)
   * [人工智能](zh-cn/more-pages.md)
 
 * 随笔
