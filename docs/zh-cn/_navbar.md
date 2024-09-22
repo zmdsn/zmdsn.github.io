@@ -4,7 +4,7 @@
 
 * 研究课题
   * [运筹学](research/OR.md)
-  * [人工智能](zh-cn/more-pages.md)
+  * [人工智能](research/AI.md)
 
 * 随笔
   * [快速开始](zh-cn/quickstart.md)
