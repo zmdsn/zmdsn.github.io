@@ -2,13 +2,13 @@
 
 <!-- _navbar.md -->
 
-* [主页](/)
+* [Home](/)
 
-* research
+* Research
   * [OR](/zh-cn/research/OR.md)
   * [AI](/zh-cn/research/AI.md)
 
-* [blog](/zh-cn/blog/)
+* [Blog](/zh-cn/blog/)
 
 * Language
   * [English](/)
