@@ -31,20 +31,18 @@
         countable:true,
         fontsize:'0.9em',
         color:'rgb(90,90,90)',
-        language:'chinese'
+        language:'english'
       }, // 字数统计
       search: {
         paths: 'auto',
-        placeholder: '🔍 搜索',
-        noData: '😒 找不到结果',
+        placeholder: '🔍 search',
+        noData: '😒 No result',
         // Headline depth, 1 - 6
         depth: 6,
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
       },//添加搜索框
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       formatUpdated: function(time) {
-        // ...
-
         return time;
       },
       plugins: [
