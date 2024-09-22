@@ -8,7 +8,7 @@
   * [OR](/zh-cn/research/OR.md)
   * [AI](/zh-cn/research/AI.md)
 
-* blog
+* [blog](/zh-cn/blog/)
 
 * Language
   * [English](/)

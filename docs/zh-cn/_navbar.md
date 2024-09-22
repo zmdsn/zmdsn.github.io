@@ -6,9 +6,7 @@
   * [运筹学](/zh-cn/research/OR.md)
   * [人工智能](/zh-cn/research/AI.md)
 
-* 随笔
-
-* 出版物
+* [随笔](/zh-cn/blog/README.md)
 
 * Language
   * [English](/)
